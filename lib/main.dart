@@ -29,6 +29,7 @@ class MyApp extends StatelessWidget {
       ),
 //      home: MyHomePage(title: 'Flutter Demo Home Page'),
       home: iPhoneXXS11Pro1(),
+      //home: iPhoneXXS11Pro2(),
     );
   }
 }
